@@ -8,19 +8,24 @@ This is a GNOME shell extension that displays Live Cricket Score of all internat
 
 * **Taskbar View**: 
 
+This shows score of current pursuing innings of selected match.
+
 ![Taskbar View](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_208_1.png)
 
 
-* **Taskbar View**: 
+* **Hover View**: 
+
+Here more detailed information of match is shown.
 
 ![Hover View](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_208_1.png)
 
 
-* **Taskbar View**: 
+* **Dropdown View**: 
+
+To switch between current matches just click on the match you want to be displayed by default.
 
 ![Dropdown View](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_208_1.png)
 
-* **Remove Workspaces Sidebar**: Remove the right-side workspace thumbnails sidebar from the Activities overview. Perfect if you don't use workspaces.
 
 
 ## Installation
@@ -33,5 +38,5 @@ Install from [extensions.gnome.org](https://extensions.gnome.org/extension/208/p
 * Add more detail information of current selected match (partnership, venue etc) to hover view.
 * Show past results in dropdown view.
 * Support for text commentary.
-
+* Better commenting & documentation.
 
