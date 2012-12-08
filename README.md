@@ -30,7 +30,8 @@ To switch between current matches just click on the match you want to be display
 
 ## Installation
 
-Install from [extensions.gnome.org](https://extensions.gnome.org/extension/208/panel-settings/). Please make sure you are on supported browser (Firefox / Chrome).
+* Install from [extensions.gnome.org](https://extensions.gnome.org). Please make sure you are on supported browser (Firefox / Chrome).
+* Or download [gnome-shell-extension-cricket.zip](https://raw.github.com/varunoberoi/gnome-shell-extension-cricket/master/gnome-shell-extension-cricket.zip) & install using GNOME Tweak Tool.
 
 
 ## Todo
