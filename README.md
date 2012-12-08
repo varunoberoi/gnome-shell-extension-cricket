@@ -10,21 +10,21 @@ This is a GNOME shell extension that displays Live Cricket Score of all internat
 
 This shows score of current pursuing innings of selected match.
 
-![Taskbar View](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_208_1.png)
+![Taskbar View](https://raw.github.com/varunoberoi/gnome-shell-extension-cricket/master/taskbar-view.png)
 
 
 * **Hover View**: 
 
 Here more detailed information of match is shown.
 
-![Hover View](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_208_1.png)
+![Hover View](https://raw.github.com/varunoberoi/gnome-shell-extension-cricket/master/hover-view.png)
 
 
 * **Dropdown View**: 
 
 To switch between current matches just click on the match you want to be displayed by default.
 
-![Dropdown View](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_208_1.png)
+![Dropdown View](https://raw.github.com/varunoberoi/gnome-shell-extension-cricket/master/dropdown-view.png)
 
 
 
